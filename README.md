@@ -1,6 +1,6 @@
 # Weather Data Processing Platform
 
-A robust weather data processing platform that ingests, stores, and analyzes weather data using Kafka, Cassandra, and Spark. This platform is designed to handle real-time weather data streams, store them efficiently, and perform analytics and machine learning tasks.
+A robust weather data processing platform that ingests, stores, and analyzes weather data using Kafka, Cassandra, and Spark. This platform is designed to handle real-time weather data streams, store them efficiently, and perform analytics and machine learning tasks. This project is a combination of multiple topics I learned in COMP SCI 544 (Big Data Systems) at UW-Madison.
 
 ## Features
 
