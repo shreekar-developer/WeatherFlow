@@ -96,13 +96,6 @@ python weather_platform.py --config config.json --ingest --process --max-records
 
 ## Testing
 
-### Unit Tests
-
-Run the test suite:
-```bash
-python -m pytest tests/
-```
-
 ### Manual Testing
 
 1. **Test Data Ingestion**:
@@ -146,15 +139,3 @@ Logs are written to the console with the following format:
 ```
 <timestamp> - weather_platform - <level> - <message>
 ```
-
-## Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Commit your changes
-4. Push to the branch
-5. Create a Pull Request
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
